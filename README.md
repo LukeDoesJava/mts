@@ -3,8 +3,6 @@
 A project showcasing a Multi-Thread Scheduling (MTS) system, utilizing C and the pthread library to create a process schedular based on various rules and specificaitons.
 
 
-**FOR THE TA, ASSIGNMENT HAS BEEN FULLY IMPLEMENTED CORRECTLY** 
-
 ## Table of Contents
 
 - [Credentials](#credentials)
