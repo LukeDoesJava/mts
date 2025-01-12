@@ -1,0 +1,10 @@
+Summary: Made changes to how timing is calculated and output time is displayed, train order has not changed, will still fail case 3.
+---
+UPDATE TO INITIAL PUSH: Changes were not fully added/commited when i pushed, sorry!
+I don't know if you compare to previous commits to see what changed, but it should be two commits ago to see all the changes made 
+from my initial submission.
+---
+Changes can be found (All in thread_logic.c):
+- Display_time numbers changed (Line 14-23)
+- Changed from usleep to nanosleep for both arrival and crossing (@lines 38 and 100)
+- Changed where start_time is taken (mts.c line 199)
